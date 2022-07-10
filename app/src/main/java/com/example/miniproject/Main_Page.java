@@ -130,9 +130,7 @@ public class Main_Page extends AppCompatActivity {
         }
     }
 }
-//
-//
-//            });
+
 
 
 
